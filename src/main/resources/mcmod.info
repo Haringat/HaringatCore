@@ -1,0 +1,14 @@
+[{
+  "modid": "haringat-core",
+  "name": "Haringat Core",
+  "description": "Some utilities for my mods.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "https://www.github.com/Haringat/HaringatCore",
+  "updateUrl": "",
+  "authorList": ["Haringat"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
